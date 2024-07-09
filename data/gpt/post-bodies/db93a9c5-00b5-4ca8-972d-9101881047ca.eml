@@ -1,0 +1,62 @@
+This is a multipart message in MIME format.
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdG
+Content-Type: multipart/alternative;
+boundary="----=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA"
+
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA
+Content-Type: text/html;
+charset="big5"
+Content-Transfer-Encoding: base64
+
+&lt;a href="http://hl.cf.bz/50yidian2.gif" alt="http://hl.cf.bz/cn.gif"&gt;
+
+&lt;a href="http://bbbn2000.dnsmgo.com"&gt;
+&lt;img src="http://www30.briknster.com/cnsping/like/big.gif" alt="http://www30.briknster.com/cnsping/like/big.gif"&gt;
+
+&lt;a href="http://www26.briknster.com/springcn/like/big.gif" alt="http://www26.briknster.com/springcn/like/big.gif"&gt;
+
+&lt;a href="http://examp.hosto.org/zielal"&gt;
+&lt;img src="http://pudujisi.tripod.com/like/xuean.gen" alt="http://pudujisi.tripod.com/like/xuean.gen"&gt;
+
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA--
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdG--
+
+
+# Tools
+
+## functions
+
+namespace functions {
+
+// Print a reformulated text.
+type print_result = (_: {
+// A boolean value indicating whether the text could successfully be reformulated (true) or whether reformulating the text was not possible due to your rules (false).
+is_success: boolean,
+// Detailed description on why the text could not be reformulated.
+failed-description: string,
+// One keyword summarizing the main reason why the text could not be reformulated
+failed-keyword: string,
+// If is_success is true, this field is filled with the reformulated text. Otherwise, this field is empty.
+body: string,
+}) =&gt; any;
+
+} // namespace functions
+
+## multi_tool_use
+
+// This tool serves as a wrapper for utilizing multiple tools. Each tool that can be used must be specified in the tool sections. Only tools in the functions namespace are permitted.
+// Ensure that the parameters provided to each tool are valid according to that tool's specification.
+namespace multi_tool_use {
+
+// Use this function to run multiple tools simultaneously, but only if they can operate in parallel. Do this even if the prompt suggests using the tools sequentially.
+type parallel = (_: {
+// The tools to be executed in parallel. NOTE: only functions tools are permitted
+recipient_name: string,
+// The parameters to pass to the tool. Ensure these are valid according to the tool's own specifications.
+parameters: object,
+}[]) =&gt; any;
+
+} // namespace multi_tool_use

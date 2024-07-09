@@ -1,0 +1,20 @@
+From acerra@hotmail.com  Thu Jun 28 17:32:00 2001
+Return-Path: <acerra@hotmail.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from kiwwi.cz (unknown [62.168.77.19]) by mail.netnoteinc.com
+    (Postfix) with SMTP id 17921130029 for <jm@netnoteinc.com>; Thu,
+    28 Jun 2001 17:31:58 +0100 (IST)
+Received: from 62.172.48.202 ([142.154.110.240]) by kiwwi.cz ;
+    Wed, 27 Jun 2001 20:12:51 +0200
+Message-Id: <00007c3b4a9d$00006d3c$00003457@62.200.0.40>
+To: to@example.com
+From: from@example.com
+Subject: Do you Remember Me?
+Date: Fri, 29 Jun 2001 13:41:58 -0700
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal
+Reply-To: sasha4042@mailandnews.com
+
+The following code snippet demonstrates a script that prevents right-clicking on a webpage. It also includes functions to encode and decode strings. The script utilizes JavaScript to detect mouse events and disable the right-click context menu on the page. It further includes functions for XOR encryption and decryption, showcasing how to manipulate strings using XOR operations. The script is intended for educational purposes only and should be used responsibly.

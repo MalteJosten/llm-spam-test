@@ -1,0 +1,26 @@
+From kfcarman@netvigator.com  Tue Aug  6 11:46:35 2002
+Return-Path: <kfcarman@netvigator.com>
+Delivered-To: yyyy@localhost.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id 2BAAC441D3
+	for <jm@localhost>; Tue,  6 Aug 2002 06:43:12 -0400 (EDT)
+Received: from phobos [127.0.0.1]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Tue, 06 Aug 2002 11:43:12 +0100 (IST)
+Received: from pc (aworklan017193.netvigator.com [203.198.131.193]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with SMTP id g7651ok13643 for
+    <webmaster@efi.ie>; Tue, 6 Aug 2002 06:01:51 +0100
+Date: Tue, 6 Aug 2002 06:01:51 +0100
+Received: from titan by ksts.seed.net.tw with SMTP id
+    MXCjAd8rS60lvMudKh4n1mypLvn; Tue, 06 Aug 2002 13:03:52 +0800
+Message-Id: <umVwmIvsNQ@mx.seed.net.tw>
+From: from@example.com
+To: to@example.com
+Subject: Brand New Premium Promotion
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_hzG8dMSOY9olT2Ty"
+X-Mailer: xLihQRz3QwM5E2FMVKYP7zl1QN
+X-Priority: 3
+X-Msmail-Priority: Normal
+
+This is a multi-part message in MIME format.

@@ -1,0 +1,10 @@
+{
+  "mail_count": 137,
+  "sent_count": 137,
+  "sent_ratio": 1.0,
+  "classifications": {
+    "0": 101,
+    "1": 36
+  },
+  "success_rate": 0.7372262773722628
+}

@@ -1,0 +1,90 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N6xLhY045980
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Tue, 23 Jul 2002 01:59:21 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6N6xKUx045975
+	for cypherpunks-forward@ds.pro-ns.net; Tue, 23 Jul 2002 01:59:20 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6N6x8hX045874
+	for <cypherpunks@ds.pro-ns.net>; Tue, 23 Jul 2002 01:59:13 -0500 (CDT)
+	(envelope-from cpunks@ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id CAA01271
+	for cypherpunks@ds.pro-ns.net; Tue, 23 Jul 2002 02:07:37 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id CAB01224
+	for cypherpunks-outgoing; Tue, 23 Jul 2002 02:06:12 -0500
+Received: from post.webmailer.de (natwar.webmailer.de [192.67.198.70])
+	by einstein.ssz.com (8.8.8/8.8.8) with ESMTP id CAA01220
+	for <cypherpunks@einstein.ssz.com>; Tue, 23 Jul 2002 02:06:05 -0500
+Received: from gateway.de (pD95009C2.dip.t-dialin.net [217.80.9.194])
+	by post.webmailer.de (8.9.3/8.8.7) with ESMTP id IAA10321;
+	Tue, 23 Jul 2002 08:56:17 +0200 (MEST)
+Received: from smtp-gw-4.msn.com ([194.168.161.197])
+	by gateway.de (8.10.2/8.10.2/SuSE Linux 8.10.0-0.3) with ESMTP id g6N6p5j28893;
+	Tue, 23 Jul 2002 08:51:06 +0200
+X-Authentication-Warning: gateway.de: Host [194.168.161.197] claimed to be smtp-gw-4.msn.com
+Message-ID: <000039a91559$000060f1$000073ac@smtp-gw-4.msn.com>
+To: to@example.com
+From: from@example.com
+Subject: Fw: Keep it under wraps, but this one works a treat!             25031
+Date: Tue, 23 Jul 2002 01:53:27 -1700
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Sender: owner-cypherpunks@ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+
+<html>
+<head>
+<title>Help with Credit</title>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" link="#000000" vlink="#000000" alink="#000000">
+<br>
+<center>
+<table width="400" border="0" cellpadding="0" cellspacing="1" bgcolor="#999999">
+<tr>
+<td>
+<table border="0" cellpadding="4" cellspacing="0" bgcolor="#FFFFFF" background="http://365.sunshinehui.com/creditfix/email/background_arrow.gif" width="400">
+<tr>
+<td><a href="http://365.sunshinehui.com/creditfix/?cid=1580&mid=17600"><img src="http://365.sunshinehui.com/creditfix/email/banner_email.gif" border="0"></a><br>
+<img src="http://365.sunshinehui.com/creditfix/email/line.gif"><br><br>
+<a href="http://365.sunshinehui.com/creditfix/?cid=1580&mid=17600"><img src="http://365.sunshinehui.com/creditfix/email/body_email.gif" alt="" border="0"></a>
+<br>
+<font face="Verdana" size="2>Thank you,</font><br>
+<img src="http://365.sunshinehui.com/creditfix/email/thankyou.gif">
+<br>
+</td>
+</tr>
+<tr>
+<td>
+<img src="http://365.sunshinehui.com/creditfix/email/line.gif"><br><br>
+<font face="Verdana" size="1">Your email address was obtained through a valid source, Reference # 1580-17600.&nbsp;&nbsp;If you prefer not to receive further communications, please
+<a href="http://61.172.250.143/remove/remove1.html">Click here</a> and provide your
+name for removal. If you have previously
+unsubscribed and continue to receive messages, please contact our
+<a href="mailto:nospamws@yahoo.com?Subject=Abuse Report">Customer Support</a>,
+call 1-888-763-2497, or send a letter to: NoSpam, 6484 Coral Way,
+Miami, FL, 33155".</font><br>
+<br>
+<img src="http://365.sunshinehui.com/creditfix/email/line.gif"><br>
+<font face="Verdana" size="1">&copy; 2002 Web Credit Inc. All Rights Reserved</font><font face="Verdana" size="1">.</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</center>
+<br>
+</body>
+</html>

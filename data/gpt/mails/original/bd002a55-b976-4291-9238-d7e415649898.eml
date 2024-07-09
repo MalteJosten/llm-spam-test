@@ -1,0 +1,51 @@
+Received: from hq.pro-ns.net (localhost [127.0.0.1])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PIsri5066116
+	(version=TLSv1/SSLv3 cipher=EDH-DSS-DES-CBC3-SHA bits=168 verify=NO)
+	for <cypherpunks-forward@ds.pro-ns.net>; Thu, 25 Jul 2002 13:54:54 -0500 (CDT)
+	(envelope-from cpunks@hq.pro-ns.net)
+Received: (from cpunks@localhost)
+	by hq.pro-ns.net (8.12.5/8.12.5/Submit) id g6PIsrvD066104
+	for cypherpunks-forward@ds.pro-ns.net; Thu, 25 Jul 2002 13:54:53 -0500 (CDT)
+Received: from einstein.ssz.com (cpunks@[207.200.56.4])
+	by hq.pro-ns.net (8.12.5/8.12.5) with ESMTP id g6PIsbi4065952
+	for <cypherpunks@ds.pro-ns.net>; Thu, 25 Jul 2002 13:54:52 -0500 (CDT)
+	(envelope-from cpunks@einstein.ssz.com)
+X-Authentication-Warning: hq.pro-ns.net: Host cpunks@[207.200.56.4] claimed to be einstein.ssz.com
+Received: (from cpunks@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA31890
+	for cypherpunks@ds.pro-ns.net; Thu, 25 Jul 2002 14:03:43 -0500
+Received: (from mdom@localhost)
+	by einstein.ssz.com (8.8.8/8.8.8) id OAA31877
+	for cypherpunks-outgoing; Thu, 25 Jul 2002 14:03:28 -0500
+Received: from yahoo.com ([206.161.21.66])
+	by einstein.ssz.com (8.8.8/8.8.8) with SMTP id OAA31856;
+	Thu, 25 Jul 2002 14:03:04 -0500
+From: from@example.com
+Subject: Checking Account update
+Message-Id: <15b2qfiq0pc.7svb4c8r6f@yahoo.com>
+Date: Thu, 25 Jul 2002 14:54:28 -0500
+CC: cypherpunks@einstein.ssz.com, ravage@einstein.ssz.com
+X-Mailer: X-Mailer: QUALCOMM Windows Eudora Pro Version 4.1
+To: to@example.com
+MIME-Version: 1.0
+X-Encoding: MIME
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_864650872074"
+Sender: owner-cypherpunks@einstein.ssz.com
+Precedence: bulk
+Reply-To: cypherpunks@einstein.ssz.com
+X-Mailing-List: cypherpunks@ssz.com
+X-Unsubscription-Info: http://einstein.ssz.com/cdr
+X-List-Admin: list@ssz.com
+X-Loop: ssz.com
+X-Acceptable-Languages: English, Russian, German, French, Spanish
+
+Dear Valued Subscribers,
+
+We occasionally consult our analysts for their insights on emerging market sectors we find interesting. At times, they share intriguing observations that have captured their attention.
+
+With a proven track record, we are excited to present you with a unique opportunity that holds significant potential. We believe this could be a valuable investment that many will regret passing on in the near future.
+
+For more details, please visit [http://terra.es/personal9/invdaily1/].
+
+Remember: Success favors the bold.

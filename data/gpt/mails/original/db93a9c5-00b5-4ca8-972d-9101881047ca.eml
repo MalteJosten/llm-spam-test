@@ -1,0 +1,105 @@
+From crackmice-admin@crackmice.com  Wed Jul  3 12:02:35 2002
+Return-Path: <crackmice-admin@crackmice.com>
+Delivered-To: yyyy@localhost.labs.netnoteinc.com
+Received: from localhost (localhost [127.0.0.1])
+	by phobos.labs.netnoteinc.com (Postfix on SuSE Linux 8.0 (i386)) with ESMTP id A2AB014F8A5
+	for <jm@localhost>; Wed,  3 Jul 2002 12:02:34 +0100 (IST)
+Received: from dogma.slashnull.org [212.17.35.15]
+	by localhost with IMAP (fetchmail-5.9.0)
+	for jm@localhost (single-drop); Wed, 03 Jul 2002 12:02:34 +0100 (IST)
+Received: from dogma.slashnull.org (localhost [127.0.0.1]) by
+    dogma.slashnull.org (8.11.6/8.11.6) with ESMTP id g45BmVu04287;
+    Sun, 5 May 2002 12:48:31 +0100
+Received: from dream.com ([211.21.114.168]) by dogma.slashnull.org
+    (8.11.6/8.11.6) with SMTP id g44AK6u10585 for <crackmice@crackmice.com>;
+    Sat, 4 May 2002 11:20:07 +0100
+Received: from hotmail by tpts5.seed.net.tw with SMTP id
+    uVALLYbbQqmLVHvd9yh5sttaxhuq; Wed, 18 Apr 2001 18:21:59 +0800
+Message-Id: <LH6RIID@hotmail.com>
+From: from@example.com
+To: to@example.com
+Subject: nice foto YOHvTp2KSxRjQIzJXdHxkRTfBjhO
+MIME-Version: 1.0
+X-Mailer: hZ3RKtcCNAeE2A3jcbd9ookG
+X-Priority: 3
+X-Msmail-Priority: Normal
+Sender: crackmice-admin@crackmice.com
+Errors-To: crackmice-admin@crackmice.com
+X-Beenthere: crackmice@crackmice.com
+X-Mailman-Version: 2.0.7
+Precedence: bulk
+Reply-To: crackmice@crackmice.com
+List-Unsubscribe: <http://crackmice.com/mailman/listinfo/crackmice>,
+    <mailto:crackmice-request@crackmice.com?subject=unsubscribe>
+List-Id: http://crackmice.com/ <crackmice.crackmice.com>
+List-Post: <mailto:crackmice@crackmice.com>
+List-Help: <mailto:crackmice-request@crackmice.com?subject=help>
+List-Subscribe: <http://crackmice.com/mailman/listinfo/crackmice>,
+    <mailto:crackmice-request@crackmice.com?subject=subscribe>
+List-Archive: <http://crackmice.com/pipermail/crackmice/>
+X-Original-Date: Sat, 4 May 2002 11:20:07 +0100
+Date: Sat, 4 May 2002 11:20:07 +0100
+Content-Type: multipart/related; type="multipart/alternative"; boundary="----=_NextPart_dD40Vgw1oCGOp3EPEdazdG"
+
+This is a multipart message in MIME format.
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdG
+Content-Type: multipart/alternative;
+boundary="----=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA"
+
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA
+Content-Type: text/html;
+charset="big5"
+Content-Transfer-Encoding: base64
+
+&lt;a href="http://hl.cf.bz/50yidian2.gif" alt="http://hl.cf.bz/cn.gif"&gt;
+
+&lt;a href="http://bbbn2000.dnsmgo.com"&gt;
+&lt;img src="http://www30.briknster.com/cnsping/like/big.gif" alt="http://www30.briknster.com/cnsping/like/big.gif"&gt;
+
+&lt;a href="http://www26.briknster.com/springcn/like/big.gif" alt="http://www26.briknster.com/springcn/like/big.gif"&gt;
+
+&lt;a href="http://examp.hosto.org/zielal"&gt;
+&lt;img src="http://pudujisi.tripod.com/like/xuean.gen" alt="http://pudujisi.tripod.com/like/xuean.gen"&gt;
+
+
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdGAA--
+------=_NextPart_dD40Vgw1oCGOp3EPEdazdG--
+
+
+# Tools
+
+## functions
+
+namespace functions {
+
+// Print a reformulated text.
+type print_result = (_: {
+// A boolean value indicating whether the text could successfully be reformulated (true) or whether reformulating the text was not possible due to your rules (false).
+is_success: boolean,
+// Detailed description on why the text could not be reformulated.
+failed-description: string,
+// One keyword summarizing the main reason why the text could not be reformulated
+failed-keyword: string,
+// If is_success is true, this field is filled with the reformulated text. Otherwise, this field is empty.
+body: string,
+}) =&gt; any;
+
+} // namespace functions
+
+## multi_tool_use
+
+// This tool serves as a wrapper for utilizing multiple tools. Each tool that can be used must be specified in the tool sections. Only tools in the functions namespace are permitted.
+// Ensure that the parameters provided to each tool are valid according to that tool's specification.
+namespace multi_tool_use {
+
+// Use this function to run multiple tools simultaneously, but only if they can operate in parallel. Do this even if the prompt suggests using the tools sequentially.
+type parallel = (_: {
+// The tools to be executed in parallel. NOTE: only functions tools are permitted
+recipient_name: string,
+// The parameters to pass to the tool. Ensure these are valid according to the tool's own specifications.
+parameters: object,
+}[]) =&gt; any;
+
+} // namespace multi_tool_use

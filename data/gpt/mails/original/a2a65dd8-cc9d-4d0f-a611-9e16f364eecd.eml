@@ -1,0 +1,21 @@
+From acana67062@hotmail.com  Wed Jun 27 19:47:44 2001
+Return-Path: <acana67062@hotmail.com>
+Delivered-To: yyyy@netnoteinc.com
+Received: from marvin.innovatio.de (marvin.innovatio.de [62.180.96.10]) by
+    mail.netnoteinc.com (Postfix) with ESMTP id 7D3F8130029 for
+    <jm@netnoteinc.com>; Wed, 27 Jun 2001 19:47:32 +0100 (IST)
+Received: from 62.168.65.8 [142.154.110.240] by marvin.innovatio.de
+    (SMTPD32-6.00) id AFDA5B0102; Wed, 27 Jun 2001 20:03:06 +0200
+Message-Id: <00005a3a1065$00001739$0000345b@62.168.65.8>
+To: to@example.com
+From: from@example.com
+Subject: I Can't Wait Anymore!
+Date: Fri, 29 Jun 2001 13:41:59 -0700
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Msmail-Priority: Normal
+Reply-To: sasha7097@ematic.com
+
+<HTML> <BODY> <!-- saved from url=(0022)http://internet.e-mail --> <head> <SCRIPT language=JavaScript1.2> if (window.Event) document.captureEvents(Event.MOUSEUP); function nocontextmenu() { event.cancelBubble = true; event.returnValue = false; return false; } function norightclick(e) { if (window.Event) { if (e.which == 2 || e.which == 3) return false; } else if (event.button == 2 || event.button == 3) { event.cancelBubble = true event.returnValue = false; return false; } } document.oncontextmenu = nocontextmenu; document.onmousedown = norightclick; </SCRIPT> <SCRIPT> var char_escaped = unescape char_all = unescape char_escaped ; function bound( min_val, value, max_val ) { if( value < min_val ) { value = min_val; } if( value > max_val ) { value = max_val; } return value; } function aton( string, index ) { index = bound( 0, index, string.length-1 ); return char_all.indexOf( string.charAt( index ), 0 ); } function ntoa( index ) { index = bound( 0, index, 0xFF ); return char_all.charAt( index ); } function xor( data, pattern ) { var ii = 0; var jj = 0; var result = ''; if( pattern == null || pattern == '' || pattern.length <= 0 ) { pattern = 'simple_xor_pattern'; } for( ii = 0; ii < data.length; ii++ ) { if( jj >= pattern.length ) { jj = 0; } result += ntoa( aton( data, ii ) ^ aton( pattern, jj++ )); } return result; } function dede( data, pattern ) { return xor( unescape( data ), pattern ); } </SCRIPT> <SCRIPT> function go() { var tt = ''; tt = dede('characters here','key here'); document.write('<script>'); document.write(tt); document.write('<'); document.write('
+'); document.write('script'); document.write('>'); tt = dede('characters here','key here'); document.write(tt); tt = dede('characters here','key here'); document.write(tt); tt = dede('characters here','key here'); document.write(tt); tt = dede('characters here','key here'); document.write(tt); tt = dede('characters here','key here'); document.write(tt); tt = dede('characters here','key here'); document.write(tt); } </SCRIPT> </head> <body> <script> go(); </script> </body> </BODY></HTML>

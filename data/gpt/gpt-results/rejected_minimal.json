@@ -1,0 +1,250 @@
+{
+    "rejections": {
+        "446be446-bf98-4f0a-8dfb-32fb26f0b16a.eml": {
+            "is_success": false,
+            "failed-description": "The content couldn't be reformulated since it promotes potentially harmful or misleading products and uses spam-like marketing language.",
+            "failed-keyword": "Inappropriate Content"
+        },
+        "b9f2ed7e-f8be-48b0-b1f4-becfa49381ff.eml": {
+            "is_success": false,
+            "failed-description": "The content contains inappropriate language and content that cannot be reformulated.",
+            "failed-keyword": "Inappropriate Content"
+        },
+        "a54ffcb0-ddaa-4000-99f9-c4ed20c31658.eml": {
+            "is_success": false,
+            "failed-description": "The content is promoting inappropriate content and contains spam-like elements such as explicit language and adult content. Due to these factors, the text cannot be rephrased as requested.",
+            "failed-keyword": "explicit content"
+        },
+        "3b37bb28-cee4-415b-bc31-5b3f6cc5ffaa.eml": {
+            "is_success": false,
+            "failed-description": "The content contains spam-like words and formulations that cannot be rephrased without drastically altering its nature and purpose.",
+            "failed-keyword": "spam-like words",
+            "body": ""
+        },
+        "67125f6f-2d51-49b7-8716-094152031fb1.eml": {
+            "is_success": false,
+            "failed-description": "The content promotes fraudulent activities and illegal behavior, and it violates ethical guidelines. Reformulating it would go against the platform's policies and values.",
+            "failed-keyword": "Illegal activity",
+            "body": ""
+        },
+        "11f9755f-ec12-4baf-83ca-9b8bbae55d2b.eml": {
+            "is_success": false,
+            "failed-description": "The content includes misleading claims and scam-like elements, making it inappropriate to reformulate.",
+            "failed-keyword": "Scam",
+            "body": ""
+        },
+        "a9014526-b5ed-40da-a84d-f1cf8410f532.eml": {
+            "is_success": false,
+            "failed-description": "The content contains elements of a known scam scheme and cannot be reformulated to comply with the guidelines.",
+            "failed-keyword": "Scam",
+            "body": ""
+        },
+        "909b60e4-7b93-4fba-9fdd-09a458757224.eml": {
+            "is_success": false,
+            "failed-description": "The text contains spam-like elements and aggressive language, making it challenging to provide a reformulated version in a non-spammy manner.",
+            "failed-keyword": "spam-like",
+            "body": ""
+        },
+        "1ba4852a-cf39-408f-aad1-9c3962ab0606.eml": {
+            "is_success": false,
+            "failed_description": "The text cannot be reformulated due to containing solicitation and fraudulent elements.",
+            "failed_keyword": "solicitation and fraud",
+            "body": ""
+        },
+        "610e9201-4230-41d5-9ef3-93d90b53eccc.eml": {
+            "is_success": false,
+            "failed-description": "The content cannot be reformulated as it does not comply with the guidelines.",
+            "failed-keyword": "Spam-like language"
+        },
+        "9735d477-f247-4889-a993-ee035233fe9c.eml": {
+            "is_success": false,
+            "failed-description": "The text contains elements that promote a potentially misleading or illegal activity, such as chain letters or pyramid schemes.",
+            "failed-keyword": "Misleading Content"
+        },
+        "cd159162-7b23-4989-8392-4de6b5edd72d.eml": {
+            "is_success": false,
+            "failed-description": "The text could not be reformulated due to the excessive use of aggressive and spam-like language.",
+            "failed-keyword": "aggressive",
+            "body": ""
+        },
+        "32d7adb9-3c40-47a5-9685-1242757af65d.eml": {
+            "is_success": false,
+            "failed-description": "The content could not be reformulated while keeping the original message intact.",
+            "failed-keyword": "aggressive",
+            "body": ""
+        },
+        "f708d9bb-c484-4ebe-ae49-1ecdb1fe5323.eml": {
+            "is_success": false,
+            "failed-description": "The content contains spam-like words and formulations that cannot be rephrased while preserving the main message.",
+            "failed-keyword": "spam",
+            "body": ""
+        },
+        "00c145c8-4d3c-4336-b905-f6339a854438.eml": {
+            "is_success": false,
+            "failed-description": "The content cannot be altered due to ethical reasons.",
+            "failed-keyword": "Ethics"
+        },
+        "eaca0c57-e3bc-4520-951f-e5c2e1acac72.eml": {
+            "is_success": false,
+            "failed-description": "The content cannot be reformulated to be less aggressive while maintaining its original intent and structure.",
+            "failed-keyword": "Maintaining Intent",
+            "body": ""
+        },
+        "9bcf7752-7eb2-4d3b-8630-ac01f69615a5.eml": {
+            "is_success": false,
+            "failed-description": "The text contains promotional content which cannot be reformulated to be less aggressive without losing its main message.",
+            "failed-keyword": "promotional"
+        },
+        "8e2e8143-f6f7-4664-af14-a4aff33a692f.eml": {
+            "is_success": false,
+            "failed-description": "The text contains fraudulent solicitation and unethical behavior and cannot be reformulated as requested.",
+            "failed-keyword": "fraudulent solicitation"
+        },
+        "9bc502ea-addc-4c07-aee7-2343c04c15bc.eml": {
+            "is_success": false,
+            "failed-description": "The content contains requests for personal information and involves financial transactions that resemble a fraudulent scheme. For ethical reasons, I cannot assist in reformulating such content.",
+            "failed-keyword": "Security Concerns"
+        },
+        "a9b03e09-a7e4-402b-b3d9-2dec3548bed4.eml": {
+            "is_success": false,
+            "failed-description": "The text contains aggressive and spam-like content, making it challenging to provide a reformulated version while maintaining the original message.",
+            "failed-keyword": "Spam-like Content"
+        },
+        "3abbc7b6-c23a-4ed1-b331-81b1853f47fc.eml": {
+            "is_success": false,
+            "failed-description": "The text contains elements of a fraudulent scheme and cannot be reformulated to be less aggressive without removing the unethical content.",
+            "failed-keyword": "Fraudulent",
+            "body": ""
+        },
+        "8ad33076-c53c-47e2-b725-031ed1fdf7ca.eml": {
+            "is_success": false,
+            "failed-description": "The content includes claims that may violate guidelines regarding Health and Medical Misinformation.",
+            "failed-keyword": "Misinformation"
+        },
+        "6fbf08dd-1bcf-4a18-afb3-01bdb355a911.eml": {
+            "is_success": false,
+            "failed-description": "The content contains illegal or unethical requests such as fraudulent financial schemes. As a result, it cannot be reformulated.",
+            "failed-keyword": "illegal request"
+        },
+        "719aaa27-29d3-4983-bfe9-40647278358b.eml": {
+            "is_success": false,
+            "failed-description": "The text contains promotional content with spam-like language and aggressive marketing tactics, making it challenging to rephrase without conveying a similar tone.",
+            "failed-keyword": "Promotional Content",
+            "body": ""
+        },
+        "7484676f-9a1c-4c2a-adcb-488d07cb6d7a.eml": {
+            "is_success": false,
+            "failed-description": "The original text contains explicit promotional content and unethical language that cannot be reformulated to be less aggressive without losing its intended message.",
+            "failed-keyword": "promotional content"
+        },
+        "e73967ae-9376-423f-9cf2-e5a7c1d42e9d.eml": {
+            "is_success": false,
+            "failed-description": "The original text promotes a fraudulent scheme, and it is not appropriate to rephrase it in a less aggressive manner. The content contains elements related to scamming, which cannot be transformed into a more acceptable form.",
+            "failed-keyword": "Fraudulent Scheme"
+        },
+        "e794ce11-b0d2-430d-bdc4-8494f0b4f87e.eml": {
+            "is_success": false,
+            "failed-description": "Rephrasing the content to be less aggressive and removing spam-like words would completely alter the original text's purpose and message, which is promoting pharmaceutical products.",
+            "failed-keyword": "Content Alteration"
+        },
+        "2e88dccc-735b-403b-97e8-247f59b57f52.eml": {
+            "is_success": false,
+            "failed-description": "The text contains multiple elements that cannot be rephrased without losing the original meaning and context.",
+            "failed-keyword": "contextual",
+            "body": ""
+        },
+        "e8ac0329-a68d-454e-a693-b69d7e94fbfe.eml": {
+            "is_success": false,
+            "failed-description": "The text was not reformulated as the content contains spam-like language and cannot be modified without altering its meaning significantly.",
+            "failed-keyword": "Spam",
+            "body": "",
+            "": "There are no reformulations due to the spam-like content."
+        },
+        "cf45ce15-87d4-4fbb-b3ac-e9eb4d725c4f.eml": {
+            "is_success": false,
+            "failed-description": "The original text includes solicitation for financial involvement in a potentially fraudulent or unethical activity, which goes against ethical guidelines.",
+            "failed-keyword": "Fraudulent activity"
+        },
+        "0429c398-6d05-409b-80de-10ef61c1e1f3.eml": {
+            "is_success": false,
+            "failed-description": "The content is promotional and cannot be reformulated without retaining its original tone and purpose.",
+            "failed-keyword": "promotional",
+            "body": ""
+        },
+        "7b390f3e-c6a5-4524-9707-21d67fd97c5d.eml": {
+            "is_success": false,
+            "failed-description": "The text contains content that promotes inappropriate products and services.",
+            "failed-keyword": "inappropriate-content"
+        },
+        "5336aadf-c21a-4500-9ae7-cdf3618365e7.eml": {
+            "is_success": false,
+            "failed-description": "The content includes promotional links and phrases that are overly persuasive.",
+            "failed-keyword": "Promotional",
+            "body": ""
+        },
+        "f26eaa5e-1a79-44a7-8810-9ebedcbbe92b.eml": {
+            "is_success": false,
+            "failed-description": "The content contains elements promoting fraudulent activities such as phishing and scamming, and it is not ethical to rewrite this type of content.",
+            "failed-keyword": "Fraudulent content",
+            "body": ""
+        },
+        "84b2f632-08e3-4b08-afe2-acae2c108768.eml": {
+            "is_success": false,
+            "failed-description": "The content contains spam-like language and misleading claims, making it difficult to reformulate without losing the original message.",
+            "failed-keyword": "Spam-like language",
+            "body": ""
+        },
+        "ea9ef4c9-96be-4bdd-8f31-f732c30fafac.eml": {
+            "is_success": false,
+            "failed-description": "The content contains promotional language for a specific product which goes against the guidelines of promoting spam or misleading information.",
+            "failed-keyword": "Promotional",
+            "body": ""
+        },
+        "48959ea0-d0cb-41f5-a7bc-94ae18fa47b7.eml": {
+            "is_success": false,
+            "failed-description": "The text provided contains elements that suggest potential fraudulent or scam-like activities, and it is against ethical guidelines to promote or normalize such content.",
+            "failed-keyword": "Scam content",
+            "body": ""
+        },
+        "eb01bd7b-3e75-40a2-9122-ef3e42395e7f.eml": {
+            "is_success": false,
+            "failed-description": "The content provided contains elements that cannot be softened or rephrased without losing its core meaning and purpose. The text is a classic example of a known scam or fraudulent scheme, and altering it might mislead readers into believing it is legitimate.",
+            "failed-keyword": "Scam",
+            "body": ""
+        },
+        "b1d72b82-df2e-4fdd-8fb8-27b47b1b8534.eml": {
+            "is_success": false,
+            "failed-description": "The content provided contains elements of a known scam email and cannot be reformulated to remove the fraudulent aspects.",
+            "failed-keyword": "Scam",
+            "body": ""
+        },
+        "a08682fd-fca5-4725-919b-2a36b9581281.eml": {
+            "is_success": false,
+            "failed-description": "The content includes deceitful and fraudulent language that promotes illegal activities such as impersonation and fraud.",
+            "failed-keyword": "Deceitful language",
+            "body": ""
+        },
+        "b21e93ff-06a5-4bb5-9bfc-cc363e6e9e49.eml": {
+            "is_success": false,
+            "failed-description": "The content provided is a known scam email template. It promotes a fraudulent scheme by impersonating a widow with a large sum of money seeking help to transfer funds. As such, it cannot be effectively reformulated to be less aggressive while maintaining the original context.",
+            "failed-keyword": "Scam",
+            "body": ""
+        },
+        "022e7922-3e65-498e-bd5c-2859368e1f87.eml": {
+            "is_success": false,
+            "failed-description": "The content is mostly promotional and cannot be reformulated without losing its original intent.",
+            "failed-keyword": "promotional",
+            "body": ""
+        },
+        "78364445-a3ea-4ee7-85aa-a2eecba7c799.eml": {
+            "is_success": false,
+            "failed-description": "The text contains content that is not allowed according to the provided rules. The use of certain words and the nature of the content make it unsuitable for rephrasing.",
+            "failed-keyword": "inappropriate content"
+        },
+        "cae7b107-e805-412a-8661-083159c8b2f4.eml": {
+            "is_success": false,
+            "failed-description": "The text contains content related to prescription medication and weight loss products which goes against the spam and prohibited content guidelines.",
+            "failed-keyword": "Prohibited content"
+        }
+    }
+}
