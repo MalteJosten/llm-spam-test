@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-MAILPIT_URI="192.168.7.73"
+MAILPIT_URI="127.0.0.1"
 
 # conslut GPT to modify bodies
 python "${SCRIPT_DIR}/gpt/make_gpt_requests.py" "gpt-3.5-turbo-0125"

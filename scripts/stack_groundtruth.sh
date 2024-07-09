@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
-MAILPIT_URI="192.168.7.73"
+MAILPIT_URI="127.0.0.1"
 
 curl -s -X DELETE "${MAILPIT_URI}:8025/api/v1/messages" > /dev/null
 echo "   o Cleared mailbox"
