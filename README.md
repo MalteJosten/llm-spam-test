@@ -76,12 +76,5 @@ The test summary includes information about the spam filter's effectiveness agai
 
 The test summary includes information about the spam filter's effectiveness against the LLM-modified spam emails.
 
-## Citation and Attribution
-<--
-If you use (parts) of our pipeline, please cite our work as follows:
-```
-
-```
--->
-
+## Attribution
 In case of questions or other inquiries, please contact Malte Josten ([malte.josten@uni-due.de](mailto:malte.josten@uni-due.de)).
