@@ -77,4 +77,19 @@ The test summary includes information about the spam filter's effectiveness agai
 The test summary includes information about the spam filter's effectiveness against the LLM-modified spam emails.
 
 ## Attribution
+If you are using or referencing my work, please use the following citation:
+```
+@InProceedings{josten-icdf2c2024,
+	author="Josten, Malte and Weis, Torben",
+	editor="Goel, Sanjay and Uzun, Ersin and Xie, Mengjun and Sarkar, Sumantra",
+	title="Investigating the Effectiveness of Bayesian Spam Filters in Detecting LLM-Modified Spam Mails",
+	booktitle="Digital Forensics and Cyber Crime",
+	year="2025",
+	publisher="Springer Nature Switzerland",
+	address="Cham",
+	pages="285--295",
+	isbn="978-3-031-89363-6"
+}
+```
+
 In case of questions or other inquiries, please contact Malte Josten ([malte.josten@uni-due.de](mailto:malte.josten@uni-due.de)).
